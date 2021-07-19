@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    color:lightsteelblue;
+    font-style: oblique 40deg;
+}
+
+#time {
+    font-size: 100px;
+}
+
+#date {
+    font-size: 75px;
+}
+
+.clock {
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+
+.title {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 25px;
+}
